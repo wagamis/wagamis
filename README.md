@@ -1,7 +1,7 @@
 # Welcome to WAGMI's  Official Hub
 
 
-$WAGMI is an open source, community driven token that aims at bringing shitcoiners degens together ! Developers, Marketers and degens in general keep this token alive with creative solutions and projects that are governed by the $WAGMI token.
+$WAGMI is an open source, community driven token that aims at bringing Crypto Heads together ! Developers, Marketers and degens in general keep this token alive with creative solutions and projects that are governed by the $WAGMI token.
 
 
 ## Who created Wagmi?
@@ -41,7 +41,7 @@ Wagmi/
 // SPDX-License-Identifier: Unlicensed
 
 ````
-Degens stumbled upon this contract and spread the word. The message of the token holder touched so many of us that are affected by this plague :  we want a risk-Free chart that is maintainable and secure for quick and good profit. Thus to gather as community and make this possible as the next Shiba Inu marking last year's spirit where people made millions in matter of weeks.
+CryptoCurrency  Enthusiastes  stumbled upon this contract and spread the word. The message of the token holder touched so many of us that are affected by this plague :  we want a risk-Free project that aims at giving back to the commmunity buy simple Tokenomics laws. Thus to gather as community and make this possible as the next Shiba Inu marking last year's spirit where people made good profit and actually promoted the cryptocurrency systems as a secure and safe replacement for fiats.
 
 ## Tokenomics:
 
@@ -52,7 +52,7 @@ The Wagmi Tokenomics work this way ! from the contract you will notice 2 main th
 | Buy/Sell Tax          | 1% goes to LP|       |
 | Buy Policy          | < 4% * MCAP            |
 
-Basically , if we calculate the Bayesian mean of the trading volume at a given time The market cap will always return to a certain floor level : 
+Basically , if we calculate the Bayesian mean of the trading volume at a given time The market cap will always return to a certain floor level:
 
 <!-- >> <img src="https://latex.codecogs.com/svg.latex?\Large&space;MCAP_{n+1} = \sum_{\forall i}{Trade_{i}} * 1% + LP + MCAP_{n}" title="\Large =MCAP_{n+1} = \sum_{\forall i}{Trade_{i}} * 1% + LP + MCAP_{n}" />
  -->
@@ -60,20 +60,19 @@ Basically , if we calculate the Bayesian mean of the trading volume at a given t
  -->
 ![image](https://user-images.githubusercontent.com/100638761/156125355-3fc92be8-455a-4623-8d3e-018996690bd6.png)
 
-means nice dips for apes ! 
+wich means that the token sustains itself from deflation incremently : 
 
-
-> **slow moon and steady stacking Market Cap**
+> **slow median moon and steady stacking Market Cap**
 
 
 ### What is the best way to achieve the WAGMI = 1$ ?
 
 
-This the dilemma ! on one hand the contract creator aimed the Tokenomics to be very predictable in a sense and rewards everyone who holds at least half of 10^n (n=1, 2, 3...) a safe mooning , in a condition that the LP  stays > of the max wallet , and this is very doable for whatever the size of the buy only if the market cap reaches 1m (assuming that the trade follows Mixed Gaussian Normal Law), since the LP always increase by BUY/SELL TAXES
+This the dilemma ! on one hand the contract creator aimed the Tokenomics to be very predictable in a sense and rewards everyone who holds at least half of 10^n (n=1, 2, 3...) a safe mooning  , and this is very doable for whatever the size of the buy only if the market cap reaches 1m (assuming that the trade follows Mixed Gaussian Normal Law), since the LP always increase by BUY/SELL TAXES
 
 # Marketing 
 
-This is a community driven Token , all the marketing efforts are made by holders to make this token this year's Shiba Inu ! and we all believe as a community that the state of the bsc mainnet right now is pretty much a jungle of scums !
+This is a community driven Token , all the marketing efforts are made by holders to make this token this year's Shiba Inu ! and we all believe as a community that the state of the bsc mainnet right now is pretty much a jungle of scums and empty projects that doesn't hold to the standards of blockchain and cryptocurrency systems !
 We keep pushing for shilling and spreading the word of this unknown's dev message until it reaches more and more believers ! Once the website is live we will push for listing in the crypto space ! 
 
 # ROAD MAP
